@@ -1,4 +1,4 @@
-# SC-300 Microsoft Microsoft Identity and Access Administrator: Ninja Training
+# SC-300 Microsoft Microsoft Identity and Access Administrator: Training
 
 Welcome to the **SC-300 Microsoft Microsoft Identity and Access Administrator Ninja Training**! This repository is designed to be your comprehensive, one-stop resource for preparing for the SC-300 certification exam.
 
